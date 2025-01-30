@@ -4,3 +4,4 @@
 # task 4: operators
 # task 5: data type
 # task 6: List Introduction
+# task 7: Basic Python and Operators
