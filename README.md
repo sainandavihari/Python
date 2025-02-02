@@ -7,3 +7,4 @@
 # Task 7: Basic Python and Operators
 # Task 8: List Code Completion
 # Task 9: List pdf Documentation
+# Task 10: Tuple Class explanation and Documentation
