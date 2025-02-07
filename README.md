@@ -10,3 +10,6 @@
 # Task 10: Tuple Class explanation and Documentation
 # Task 11: Basic Python code INPUT() and sets basics
 # Task 12: Sets and Dict
+# Task 13: Numpy Basics
+# Task 14: Numpy Built in functions
+
