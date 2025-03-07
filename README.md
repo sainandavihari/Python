@@ -1,3 +1,6 @@
+# Project 1: Image Reading, processing using Np, Plt,PIL
+
+
 # Task1 : python basics
 # Task2 : variable & identifier
 # Task 3: print()
@@ -18,3 +21,4 @@
 # Task 19: Streamlit Intro 
 # Task 21: Conditional Statements
 # Task 22: Loops with Break , continue, pass 
+
