@@ -1,5 +1,5 @@
 # Project 1: Image Reading, processing using Np, Plt,PIL
-# Project 2: IPL Data Analysis
+# Project 2: IPL Data Analysis using numpy and matplotlib
 
 # Task1 : python basics
 # Task2 : variable & identifier
